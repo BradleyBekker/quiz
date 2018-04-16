@@ -1,0 +1,32 @@
+.wrapper{
+  background-color: red;
+  width: 800px;
+  height: 500px;
+  margin: auto;
+  text-align: center;
+  border: 6px solid green;
+}
+body{
+  background-color: black;
+  cursor: wait;
+}
+.questionBox{
+  background-color: blue;
+}
+.answerbox{
+  background-color: yellow;
+}
+li{
+list-style: none;
+border: 6px dashed black;
+margin: 3px;
+}
+li:hover {
+
+}
+.wrong{
+  background-color: red;
+}
+.right{
+  background-color: green;
+}
